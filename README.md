@@ -21,7 +21,7 @@ The seven syntaxes competed are the following :
   * **Ntriples**: https://www.w3.org/TR/n-triples/
 * a homemade and simplified Light Turtle : based on the Turtle syntax where every namespace, XML Schema datatypes are deleted 
 
-A sample of the dataset represented with eachh syntaxes is available [here](https://github.com/datalogism/SyntaxBart/tree/main/data_samples)
+A sample of the dataset represented with each syntaxes is available [here](https://github.com/datalogism/SyntaxBart/tree/main/data_samples)
 
 ![bart writing on chalkboard questions related to the current experience](https://github.com/datalogism/SyntaxBart/blob/main/img/bartfront.png)
 ----------------------
