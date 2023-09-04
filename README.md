@@ -13,8 +13,8 @@ This experiment is limited to the objects of the class *dbo:Person* of the Enlis
 
 The seven syntaxes competed are the following : 
 * Basic syntaxes :
-  * **list**: are a triples are represented into a sequence as follow $((s1, p1, o1), (s2, p1, o2),...)$
-  * **taggs**:  where each element of the triple is proceeded by specials token:  $$ \langle H\rangle s1 \langle R\rangle p1 \langle T\rangle o1\langle H\rangle s2\langle R\rangle p1\langle T\rangle o2...$$
+  * **list**: are a triples are represented into a sequence as follow ((s1, p1, o1), (s2, p1, o2),...)
+  * **taggs**:  where each element of the triple is proceeded by specials token: <H>s1<R>p1<T>o1<H>s2<R>p1<T> o2...
 * RDF syntaxes:
   * **Turtle**: https://www.w3.org/TR/turtle/
   * **JSON-LD**: https://www.w3.org/TR/json-ld11/
