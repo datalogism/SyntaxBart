@@ -23,6 +23,10 @@ The seven syntaxes competed are the following :
 
 A sample of the dataset represented with each syntaxes is available [here](https://github.com/datalogism/SyntaxBart/tree/main/data_samples)
 
+## Results of the experiments 
+
+All the results of these experiments are available on [weights & Biases](https://wandb.ai/celian-ringwald/SyntaxBART?workspace=user-celian-ringwald)
+
 ![bart writing on chalkboard questions related to the current experience](https://github.com/datalogism/SyntaxBart/blob/main/img/bartfront.png)
 ----------------------
 ## Important notes
