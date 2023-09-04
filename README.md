@@ -23,6 +23,7 @@ The seven syntaxes competed are the following :
 
 A sample of the dataset represented with eachh syntaxes is available [here](https://github.com/datalogism/SyntaxBart/tree/main/data_samples)
 
+![bart writing on chalkboard questions related to the current experience](https://github.com/datalogism/SyntaxBart/blob/main/img/bartfront.png)
 ----------------------
 ## Important notes
 
