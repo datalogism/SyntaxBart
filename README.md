@@ -26,3 +26,7 @@ Due to a "version incompatibility regarding the use of hydra/omegaconf"
 Must comment out the line
 File "/home//virtualenv/luke/lib/python3.8/site-packages/pytorch_lightning/core/saving.py", line 157, in load_from_checkpoint
 checkpoint[cls.CHECKPOINT_HYPER_PARAMS_KEY].update(kwargs)
+
+```bash
+python ./src/test.py model=bart_base_model data=bart_turtle train=dbpedia_train do_predict=True checkpoint_path="path_to_checkpoint"
+```
