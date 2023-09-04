@@ -1,7 +1,33 @@
 # SyntaxBart
 
-Fork of [REBEL](https://github.com/Babelscape/rebel/), made to test the impact of syntax on learning process.
-Majors updates :
+## Project goal
+This project aims to answer to the following research question :
+**How does the choice of a syntax impact the generation of triples using datatype properties?**
+
+## The Dataset
+For this purpose we finetuned the two version of the BART model (base/large) on a relation extraction on seven syntaxes.
+This experiment is limited to the objects of the class *dbo:Person* of the Enlish chapter of the DBpedia, by only focusing on the following relations :
+*rdfs:label*, *dbo:birthDate*,  *dbo:deathDate*, *dbo:birthYear*, *dbo:deathYear*.
+
+## The Syntaxes
+
+The seven syntaxes competed are the following : 
+* Basic syntaxes :
+  * **list**: are a triples are represented into a sequence as follow $((s1, p1, o1), (s2, p1, o2),...)$
+  * **taggs**:  where each element of the triple is proceeded by specials token:  $$ \langle H\rangle s1 \langle R\rangle p1 \langle T\rangle o1\langle H\rangle s2\langle R\rangle p1\langle T\rangle o2...$$
+* RDF syntaxes:
+  * **Turtle**: https://www.w3.org/TR/turtle/
+  * **JSON-LD**: https://www.w3.org/TR/json-ld11/
+  * **Ntriples**: https://www.w3.org/TR/n-triples/
+* a homemade and simplified Light Turtle : based on the Turtle syntax where every namespace, XML Schema datatypes are deleted 
+
+A sample of the dataset represented with eachh syntaxes is available [here](https://github.com/datalogism/SyntaxBart/tree/main/data_samples)
+
+----------------------
+## Important notes
+
+This code is based on a fork of [REBEL](https://github.com/Babelscape/rebel/).
+The majors updates made are the following :
 * create_dataset/ dir. contains all scripts needed for creating the datasets
 * conf/ dir. 
 * src/ dir.  mainly score.py adapted for being able to parse each syntax
