@@ -1,0 +1,23 @@
+# @package _global_
+
+num_workers: 1
+dataset_name: '/home/cringwald/EXP_env/datasets/dbpedia_test.py'
+text_column: 'context'
+target_column: 'triplets'
+train_file: '/workspace/cringwald/exp1_out/BART_model/DS_ntriples_train_bart.json'
+validation_file: '/workspace/cringwald/exp1_out/BART_model/DS_ntriples_val_bart.json'
+test_file: '/workspace/cringwald/exp1_out/BART_model/DS_ntriples_test_bart.json'
+overwrite_cache: True
+preprocessing_num_workers: 1
+max_source_length: 1024
+max_target_length: 1024
+val_max_target_length: 1024
+pad_to_max_length:  False
+max_train_samples: 10000
+max_val_samples: 3000
+max_test_samples: 3000
+num_beams: 
+eval_beams: 3
+ignore_pad_token_for_loss: True
+source_prefix:
+relations_file:
