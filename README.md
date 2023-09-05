@@ -19,7 +19,7 @@ The seven syntaxes competed are the following :
   * **Turtle**: https://www.w3.org/TR/turtle/
   * **JSON-LD**: https://www.w3.org/TR/json-ld11/
   * **Ntriples**: https://www.w3.org/TR/n-triples/
-* a homemade and simplified Light Turtle : based on the Turtle syntax where every namespace, XML Schema datatypes are deleted 
+* a homemade and simplified **Light Turtle** : based on the Turtle syntax where every namespace, XML Schema datatypes are deleted 
 
 A sample of the dataset represented with each syntaxes is available [here](https://github.com/datalogism/SyntaxBart/tree/main/data_samples)
 
