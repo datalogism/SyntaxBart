@@ -1,5 +1,19 @@
 # SyntaxBart - AAAI 24 Student Abstract
 
+@misc{ringwald:hal-04384724,
+  TITLE = {{Well-Written Knowledge Graphs}},
+  AUTHOR = {Ringwald, Celian and Gandon, Fabien and Faron, Catherine and Michel, Franck and Abi Akl, Hanna},
+  URL = {https://hal.science/hal-04384724},
+  NOTE = {Poster},
+  HOWPUBLISHED = {{AAAI 2024}},
+  YEAR = {2024},
+  MONTH = Feb,
+  KEYWORDS = {NLP Natural Language Processing ; Knowlede Graph ; Semantic web},
+  HAL_ID = {hal-04384724},
+  HAL_VERSION = {v1},
+}
+
+
 ## Research question
 **How does the choice of a syntax impact the generation of triples using datatype properties?**
 
