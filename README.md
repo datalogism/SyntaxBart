@@ -1,6 +1,7 @@
 # SyntaxBart - AAAI 24 Student Abstract
 
-@inproceedings{ringwald:hal-04384724,
+
+@article{ringwald:hal-04384724,
   TITLE = {{Well-Written Knowledge Graphs}},
   AUTHOR = {Ringwald, Celian and Gandon, Fabien and Faron, Catherine and Michel, Franck and Abi Akl, Hanna},
   URL = {https://hal.science/hal-04384724},
