@@ -1,7 +1,6 @@
-# SyntaxBart
+# SyntaxBart - AAAI 24 Student Abtract
 
-## Project goal
-This project aims to answer to the following research question :
+## Research question
 **How does the choice of a syntax impact the generation of triples using datatype properties?**
 
 ## The Dataset
