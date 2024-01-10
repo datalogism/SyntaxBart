@@ -1,4 +1,4 @@
-# SyntaxBart - AAAI 24 Student Abtract
+# SyntaxBart - AAAI 24 Student Abstract
 
 ## Research question
 **How does the choice of a syntax impact the generation of triples using datatype properties?**
