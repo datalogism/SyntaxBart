@@ -1,19 +1,19 @@
 # SyntaxBart - AAAI 24 Student Abstract
 
 
-@article{ringwald:hal-04384724,
-  TITLE = {{Well-Written Knowledge Graphs}},
-  AUTHOR = {Ringwald, Celian and Gandon, Fabien and Faron, Catherine and Michel, Franck and Abi Akl, Hanna},
-  URL = {https://hal.science/hal-04384724},
-  NOTE = {Poster},
-  HOWPUBLISHED = {{AAAI 2024}},
-  YEAR = {2024},
-  MONTH = Feb,
-  KEYWORDS = {NLP Natural Language Processing ; Knowlede Graph ; Semantic web},
-  HAL_ID = {hal-04384724},
-  HAL_VERSION = {v1},
-}
-
+ If you use the code or cite our work, please reference this one as follows (temporary) :
+ 
+    @inproceedings{ringwald:hal-04384724,
+        title = "{Well-Written Knowledge Graphs}: Most Effective RDF Syntaxes for Triple Linearization in End-to-End Extraction of Relations from Texts (Student Abstract)",
+        author = "Ringwald, Celian and Gandon, Fabien and Faron, Catherine and Michel, Franck and Abi Akl, Hanna",
+        booktitle = "Thirty-Seventh {AAAI} Conference on Artificial Intelligence, {AAAI}
+                  2024, Thirty-Four Conference on Innovative Applications of Artificial
+                  Intelligence, {IAAI} 2024,  Vancouver, CB, Canada, February
+                  20-27
+        month = nov,
+        year = "2024",
+        publisher = {HAL}
+    }
 
 ## Research question
 **How does the choice of a syntax impact the generation of triples using datatype properties?**
