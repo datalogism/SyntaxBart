@@ -6,9 +6,7 @@
     @inproceedings{ringwald:hal-04384724,
         title = "{Well-Written Knowledge Graphs}: Most Effective RDF Syntaxes for Triple Linearization in End-to-End Extraction of Relations from Texts (Student Abstract)",
         author = "Ringwald, Celian and Gandon, Fabien and Faron, Catherine and Michel, Franck and Abi Akl, Hanna",
-        booktitle = "Thirty-Seventh {AAAI} Conference on Artificial Intelligence, {AAAI}
-                  2024, Thirty-Four Conference on Innovative Applications of Artificial
-                  Intelligence, {IAAI} 2024,  Vancouver, CB, Canada, February
+        booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence, {IAAI} 2024,  Vancouver, BC, Canada, February
                   20-27
         month = nov,
         year = "2024",
