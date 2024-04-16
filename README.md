@@ -2,7 +2,7 @@
 
 
  If you use the code or cite our work, please reference this one as follows :
- 
+```
 @inproceedings{DBLP:conf/aaai/RingwaldGFMA24,
   author       = {Célian Ringwald and
                   Fabien Gandon and
@@ -26,7 +26,7 @@
   url          = {https://doi.org/10.1609/aaai.v38i21.30502},
   doi          = {10.1609/AAAI.V38I21.30502},
 }
-
+```
 ## Research question
 **How does the choice of a syntax impact the generation of triples using datatype properties?**
 
