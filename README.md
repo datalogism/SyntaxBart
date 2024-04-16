@@ -1,17 +1,31 @@
 # SyntaxBart - AAAI 24 Student Abstract
 
 
- If you use the code or cite our work, please reference this one as follows (temporary) :
+ If you use the code or cite our work, please reference this one as follows :
  
-    @inproceedings{ringwald:hal-04384724,
-        title = "{Well-Written Knowledge Graphs}: Most Effective RDF Syntaxes for Triple Linearization in End-to-End Extraction of Relations from Texts (Student Abstract)",
-        author = "Ringwald, Celian and Gandon, Fabien and Faron, Catherine and Michel, Franck and Abi Akl, Hanna",
-        booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence, {IAAI} 2024,  Vancouver, BC, Canada, February
-                  20-27
-        month = nov,
-        year = "2024",
-        publisher = {HAL}
-    }
+@inproceedings{DBLP:conf/aaai/RingwaldGFMA24,
+  author       = {Célian Ringwald and
+                  Fabien Gandon and
+                  Catherine Faron and
+                  Franck Michel and
+                  Hanna Abi Akl},
+  editor       = {Michael J. Wooldridge and
+                  Jennifer G. Dy and
+                  Sriraam Natarajan},
+  title        = {Well-Written Knowledge Graphs: Most Effective {RDF} Syntaxes for Triple
+                  Linearization in End-to-End Extraction of Relations from Texts (Student
+                  Abstract)},
+  booktitle    = {Thirty-Eighth {AAAI} Conference on Artificial Intelligence, {AAAI}
+                  2024, Thirty-Sixth Conference on Innovative Applications of Artificial
+                  Intelligence, {IAAI} 2024, Fourteenth Symposium on Educational Advances
+                  in Artificial Intelligence, {EAAI} 2014, February 20-27, 2024, Vancouver,
+                  Canada},
+  pages        = {23631--23632},
+  publisher    = {{AAAI} Press},
+  year         = {2024},
+  url          = {https://doi.org/10.1609/aaai.v38i21.30502},
+  doi          = {10.1609/AAAI.V38I21.30502},
+}
 
 ## Research question
 **How does the choice of a syntax impact the generation of triples using datatype properties?**
